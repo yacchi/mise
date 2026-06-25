@@ -1,5 +1,15 @@
 # Changelog
 
+## [2026.6.15](https://github.com/jdx/mise/compare/v2026.6.14..v2026.6.15) - 2026-06-25
+
+### 🚀 Features
+
+- **(bootstrap)** prune unmanaged brew formulae by @jdx in [#10618](https://github.com/jdx/mise/pull/10618)
+
+### 🐛 Bug Fixes
+
+- **(install)** respect lockfile backend during locked installs by @risu729 in [#10599](https://github.com/jdx/mise/pull/10599)
+
 ## [2026.6.14](https://github.com/jdx/mise/compare/v2026.6.13..v2026.6.14) - 2026-06-25
 
 ### 🚀 Features
